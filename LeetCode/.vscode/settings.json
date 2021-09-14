@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "deque": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "chrono": "cpp",
+        "complex": "cpp",
+        "cstdlib": "cpp",
+        "valarray": "cpp",
+        "map": "cpp",
+        "cmath": "cpp",
+        "iosfwd": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "forward_list": "cpp",
+        "array": "cpp",
+        "filesystem": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "xlocale": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
